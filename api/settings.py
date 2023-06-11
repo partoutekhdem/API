@@ -15,7 +15,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'taxi-app-4oli.onrender.com',
+    '209.38.242.54',
 ]
 # ALLOWED_HOSTS = ['abosamour.pythonanywhere.com']
 
