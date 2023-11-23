@@ -1,1 +1,1 @@
-gunicorn project.wsgi:application --log-file=-
+gunicorn -c gunicorn_config.py
